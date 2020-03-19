@@ -9,7 +9,7 @@
 
 
 # Table of Contents
-  - 1) [Sample Showcase](#1)
+  - 1) [Sample Showcase]
   - 2) [Installation](#2)
   - 3) [Study Roadmaps, Examples, and Tutorials](#3)
   - 4) [Documentation](#4)
